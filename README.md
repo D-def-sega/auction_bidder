@@ -1,2 +1,2 @@
 # auction_bidder
-This is auction bidder program where each person had to type their name and value in dollar. The person with the highest number would win the auction.
+This is an auction bidding program where each participant enters their name and bid amount in dollars. The individual with the highest bid will win the auction.
